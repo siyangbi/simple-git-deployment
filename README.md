@@ -1,6 +1,6 @@
 simple-deployment
 =================
 
-simple deployment script with mysql db migration
+simple deployment script pull from git repo then run mysql db migration
 
 run `php deploy.php`
