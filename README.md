@@ -1,4 +1,4 @@
-simple-deployment
+simple-git-deployment
 =================
 
 simple deployment script pull from git repo then run mysql db migration
